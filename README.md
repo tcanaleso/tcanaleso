@@ -1,7 +1,7 @@
 - 👋 Hola, soy Chilena y trabajo en gestión de educación superior
 - 👀 Me interesan los temas de género, innovación docente y tecnología aplicada a la educación
 - 🌱 Siempre seré ignorante, pero frecuentemente aprendo de R y Data Science
-- 💞️ Soy miembro de R-Ladies Valparaiso y de la APA
+- 💞️ Soy miembro de R-Ladies y PyLadies Valparaiso y de la APA
 - 📫 estoy en varias redes con el mismo nombre de usuario
 
 <!---
